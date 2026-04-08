@@ -5,7 +5,10 @@
       "Bash(python -c ':*)",
       "Bash(python:*)",
       "Bash(pip install:*)",
-      "Bash(uv pip:*)"
+      "Bash(uv pip:*)",
+      "Bash(del fix_corr.py)",
+      "Bash(/c/Users/garik/met statistice/.venv/Scripts/python.exe:*)",
+      "Bash(uv add:*)"
     ]
   }
 }
